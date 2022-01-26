@@ -1,6 +1,6 @@
 .terraform*
 .terraform
-terraform.tfstate
+terraform.tfstate*
 helm-3.6.3
 v3.6.3.tar.gz
 
